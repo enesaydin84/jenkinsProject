@@ -9,5 +9,6 @@ public class TestCase1 extends BaseTest {
     public void fizyHomePageTest(){
         FizyHomePage fhp=new FizyHomePage(driver);
         fhp.gotoFastLoginPage();
+        //Webhook için
     }
 }
